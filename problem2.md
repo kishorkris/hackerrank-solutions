@@ -2,7 +2,7 @@
 You are given a string and your task is to swap cases. In other words, convert all lowercase letters to uppercase letters and vice versa.
 
 ### Solution
-```
+```python
 def swap_case(s):
     newstring = ""
     for i in range(0,len(s)):
