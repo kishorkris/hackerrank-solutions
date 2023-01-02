@@ -2,7 +2,7 @@
 Given a year, determine whether it is a leap year. If it is a leap year, return the Boolean True, otherwise return False.
 
 ### Solution
-```
+```python
 def is_leap(year):
     leap = False
     if year%400 == 0:
